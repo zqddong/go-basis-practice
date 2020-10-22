@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//多返回值函数
+
 func values() (int, int) {
 	return 3, 7
 }

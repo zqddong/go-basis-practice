@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//变参函数
+
 // 可变参数函数 调用时可以用任意数量的参数 fmt.Println 就是常见的变参函数
 
 func sum(nums ...int) {
